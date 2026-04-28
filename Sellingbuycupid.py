@@ -7,8 +7,8 @@ import time
 import threading
 
 # ========== CONFIGURATION ==========
-BOT_TOKEN = "8502355555:AAGuaRr5PXLobPOAMTRQ5NY8q7oMMElfbeA"
-ADMIN_IDS = [7691071175, 987654321]  # Replace with actual admin Telegram user IDs
+BOT_TOKEN = "8791523809:AAGKPgRgcCO0JVofB3KEjiN4kqRXGvvRZ18"
+ADMIN_IDS = [7691071175]  # Replace with actual admin Telegram user IDs
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
